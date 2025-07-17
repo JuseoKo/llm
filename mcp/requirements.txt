@@ -1,0 +1,2 @@
+#MCP
+fastmcp==2.9.2
